@@ -35,9 +35,10 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
 />
 <img 
-     align="center"
+     align="left"
      width:"30"
      src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png"
+/>
   <img 
        align="left"
        width="30"
