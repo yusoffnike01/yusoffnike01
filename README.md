@@ -5,9 +5,10 @@
 ## 🧐 About
 
 <h4>A passionate Back  End Developer. Love to  Web Applications with latest tech available😄</h4>
-
+<br>
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 ### <h4>I am a Back-End Developer at Blue Vinegar</h4>
 
 - 🌱 I’m currently learning Frontend Development and Devops.
-- - 🥅 2022 Goals: Want to be Best Programmer 
+- 🥅 2022 Goals: Want to be Best Programmer 
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
