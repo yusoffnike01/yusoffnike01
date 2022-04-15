@@ -14,3 +14,4 @@
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 ### <h4>Languages and Tools:</h4>
+ <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
