@@ -14,17 +14,33 @@
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 ### <h4>Languages and Tools:</h4>
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- <img align="left"
+<img 
+     align="left" 
+     width="30px" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+ />
+ <img 
+      align="left"
+      width="30"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="30"
-    />
- <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  />
+ <img 
+      align="left" 
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+   />
 <img
-     align="left"
+      align="left"
+     width="30"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="30"
-    />
- <img  align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+/>
+  <img 
+       align="left"
+       width="30"
+       src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"    
+   />
+ <img  
+      align="left" 
+      width="30" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" 
+  />
