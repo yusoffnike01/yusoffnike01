@@ -37,7 +37,7 @@
 <img 
      align="left"
      width="30px"
-     src="https://image.pngaaa.com/867/6645867-middle.png"
+     src="https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png"
 />
   <img 
        align="left"
