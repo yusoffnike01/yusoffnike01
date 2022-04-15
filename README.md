@@ -21,4 +21,9 @@
       width="30"
     />
  <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubyonrails/rubyonrails-original.svg" />
+ <img
+      align="left"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="30"
+    />
