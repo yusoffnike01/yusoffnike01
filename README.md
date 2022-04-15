@@ -8,3 +8,6 @@
 
 ### <h4>I am a Back-End Developer at Blue Vinegar</h4>
 
+- 🌱 I’m currently learning Frontend Development and Devops.
+- - 🥅 2022 Goals: Want to be Best Programmer 
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
