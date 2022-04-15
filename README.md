@@ -36,7 +36,7 @@
 />
 <img 
      align="left"
-     width:"30"
+     width="30"
      src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nestjs/nestjs-ar21.svg"
 />
   <img 
