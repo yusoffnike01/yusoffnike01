@@ -37,7 +37,7 @@
 <img 
      align="left"
      width="30"
-     src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nestjs/nestjs-ar21.svg"
+     src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.pngg"
 />
   <img 
        align="left"
