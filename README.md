@@ -13,7 +13,7 @@
 - 🥅 2022 Goals: Want to be Best Programmer 
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
-###<h4>Languages and Tools:</h4>
+<h4>Languages and Tools:</h4>
 <img 
      align="left" 
      width="30px" 
