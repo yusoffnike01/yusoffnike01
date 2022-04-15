@@ -37,7 +37,7 @@
 <img 
      align="left"
      width="30"
-     src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png"
+     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMCn3Vy1ldc_CutzFcM11M-ITeBj2yS5C4JjaACiiNvP_PZUdj7Nx0aHizPGJtYvEa-fU&usqp=CAU"
 />
   <img 
        align="left"
