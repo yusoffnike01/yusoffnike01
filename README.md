@@ -37,7 +37,7 @@
 <img 
      align="left"
      width="30px"
-     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMCn3Vy1ldc_CutzFcM11M-ITeBj2yS5C4JjaACiiNvP_PZUdj7Nx0aHizPGJtYvEa-fU&usqp=CAU"
+     src="https://image.pngaaa.com/867/6645867-middle.png"
 />
   <img 
        align="left"
