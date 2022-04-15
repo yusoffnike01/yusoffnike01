@@ -21,7 +21,7 @@
  />
  <img 
       align="left"
-      width="30"
+      width="30px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
   />
  <img 
@@ -31,21 +31,21 @@
    />
 <img
       align="left"
-      width="30"
+      width="30px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
 />
 <img 
      align="left"
-     width="30"
+     width="30px"
      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMCn3Vy1ldc_CutzFcM11M-ITeBj2yS5C4JjaACiiNvP_PZUdj7Nx0aHizPGJtYvEa-fU&usqp=CAU"
 />
   <img 
        align="left"
-       width="30"
+       width="30px"
        src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"    
    />
  <img  
       align="left" 
-      width="30" 
+      width="30px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" 
   />
