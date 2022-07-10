@@ -49,3 +49,8 @@
       width="30px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" 
   />
+   <img  
+      align="left" 
+      width="30px" 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" 
+  />
