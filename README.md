@@ -54,3 +54,8 @@
       width="30px" 
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" 
   />
+     <img  
+      align="left" 
+      width="30px" 
+      src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" 
+  />
