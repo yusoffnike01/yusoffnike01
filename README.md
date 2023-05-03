@@ -7,7 +7,7 @@
 <h4>A passionate Back  End Developer. Love to  Web Applications with latest tech available😄</h4>
 <br>
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
- <h4>I am a Back-End Developer at Blue Vinegar</h4>
+ <h4>I am a Back-End Developer at Data Science</h4>
 
 - 🌱 I’m currently learning Frontend Development,Mobile Apps, 
      Hackers, BlockChain and Devops.
