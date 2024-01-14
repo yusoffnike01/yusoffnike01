@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Frontend Development,Mobile Apps, 
      Hackers, BlockChain and Devops.
-- 🥅 2023 Goals: Want to be Best Programmer 
+- 🥅 2024 Goals: Want to be Best Programmer 
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 - 💻 My Website: https://portfolio.yusoffdev.com/
 
